@@ -7,7 +7,7 @@ package com.mycompany.projetotp01;
 import java.util.Scanner;
 /**
  *
- * @author USER
+ * Nomes: Guilherme Silvestre de Farias e Igo Lima Borges
  */
 public class TP01Ex09 {
    /* 9. Calcular e exibir a tensão de um determinado circuito eletrônico a partir dos
