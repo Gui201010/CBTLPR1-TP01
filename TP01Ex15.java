@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author USER
  */
-public class EX15 {
+public class TP01Ex15 {
         
      /*
     15.Entrar via teclado com o valor da cotação do dólar e uma certa quantidade de
