@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author USER
  */
-public class EX11 {
+public class TP01Ex11 {
  /*
     11. A partir do diâmetro de um círculo que será digitado, calcular e exibir sua área.
     */
