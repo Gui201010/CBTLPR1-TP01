@@ -10,9 +10,9 @@ import java.util.Scanner;
  *
  * @author USER
  */
-public class EX05 {
+public class TP01Ex05 {
     /*
-    Calcular e exibir o volume de uma esfera a partir do valor de seu diâmetro que
+    4. Calcular e exibir o volume de uma esfera a partir do valor de seu diâmetro que
 será digitado.
     */
     public static void main(String[] args) {
