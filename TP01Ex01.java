@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author USER
  */
-public class EX01 {
+public class TP01Ex01 {
     /*
 1. Entrar via teclado com a base e a altura de um retângulo, calcular e exibir sua
 área.
