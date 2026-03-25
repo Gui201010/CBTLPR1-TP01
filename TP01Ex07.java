@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author USER
  */
-public class EX07 {
+public class TP01Ex07 {
     /*
     Calcular e exibir a média geométrica de dois valores quaisquer que serão
 digitados.
