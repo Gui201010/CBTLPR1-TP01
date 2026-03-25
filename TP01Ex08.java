@@ -11,7 +11,7 @@ dois metros e que um quilômetro possui mil metros, fazer um programa para
 converter milhas marítimas em quilômetros. 
 
  */
-public class TP01Ex8 {
+public class TP01Ex08 {
 
     public static void main(String[] args) {
         double milha = 1852;
