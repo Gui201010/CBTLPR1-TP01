@@ -10,9 +10,9 @@ import java.util.Scanner;
  *
  * @author USER
  */
-public class EX03 {
+public class TP01Ex03 {
     /*
-   2 Calcular e exibir a área de um quadrado a partir do valor de sua diagonal que será
+   3. Calcular e exibir a área de um quadrado a partir do valor de sua diagonal que será
 digitado.
     */
     public static void main(String[] args) {
