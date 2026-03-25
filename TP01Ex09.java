@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author USER
  */
-public class EX09 {
+public class TP01Ex09 {
    /* 9. Calcular e exibir a tensão de um determinado circuito eletrônico a partir dos
 valores da resistência e corrente elétrica que serão digitados. Utilize a lei de Ohm.
 */
