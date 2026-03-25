@@ -9,7 +9,7 @@ import java.util.Scanner;
 2. Calcular e exibir a área de um quadrado, a partir do valor de sua aresta que será digitado.
 
 */
-public class TP01Ex2 {
+public class TP01Ex02 {
 
     public static void main(String[] args) {
         System.out.println("Digite o valor da aresta: ");
