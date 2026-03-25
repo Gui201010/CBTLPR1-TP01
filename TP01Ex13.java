@@ -6,7 +6,7 @@ package com.mycompany.projetotp01;
 import java.util.Scanner;
 /**
  *
- * @author USER
+ * Nomes: Guilherme Silvestre de Farias e Igo Lima Borges
  */
 public class TP01Ex13 {
     /*
