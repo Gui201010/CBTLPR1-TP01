@@ -9,7 +9,7 @@ import java.util.Scanner;
 6. Calcular e exibir a média aritmética de quatro valores quaisquer que serão digitados.
 
  */
-public class TP01Ex6 {
+public class TP01Ex06 {
 
     public static void main(String[] args) {
         System.out.println("Digite o valor 1: ");
